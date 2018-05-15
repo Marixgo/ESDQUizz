@@ -1,0 +1,49 @@
+body {
+  background-image: url(esd.jpg);
+  background-size: cover;
+  min-height: 100%;
+  color : #02BCC9;
+  text-align: center;
+  font-family:"trebuchet ms",sans-serif;
+  font-size: 3em; 
+  margin: 0px;
+}
+
+h1{
+	color : #02BCC9;
+}
+
+.choix{
+	display: block; 
+	width: 70%; 
+	margin-left: 15%; 
+	margin-right: 15%; 
+	padding : 20px; 
+}
+
+.ligne{
+  	justify-content: space-around; 
+  	flex-flow : row wrap;
+}
+.1{
+	justify-content: space-around; 
+  	flex-flow : row wrap;
+}
+.2{
+	justify-content: space-around; 
+  	flex-flow : row wrap;
+}
+
+
+.ligne2{
+  	justify-content: space-around; 
+  	flex-flow : row wrap;
+}
+.3{
+	justify-content: space-around; 
+  	flex-flow : row wrap;
+}
+.4{
+	justify-content: space-around; 
+  	flex-flow : row wrap;
+}
